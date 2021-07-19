@@ -13,11 +13,13 @@ int mul(int a, int b);
 
 int add(int a, int b)
 {
+   //Soma de variáveis Inteiras
    return a + b; // TODO: fix
 }
 
 // Exercise 2: implements function 'mul', that multiplies two numbers
 int mul(int a, int b)
 {
+   //Multiplicação das variáveis inteiras
    return a * b; // TODO: fix
 }
